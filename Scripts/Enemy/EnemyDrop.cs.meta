@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 243c2863e5879c94088be369da020ed3
+timeCreated: 1507284584
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - medKit: {fileID: 1899369455933018, guid: 5336cc3a4b1af4d49a61b2610aaebf72, type: 2}
+  - ammoBox: {fileID: 1602821412269010, guid: be3340f44ff4999459d493fb5765cf8a, type: 2}
+  - AK47: {fileID: 1858082971371920, guid: cdc3ee2ce0344fd4bbd5448ae3d7eb6d, type: 2}
+  - M4A1: {fileID: 1266287237244576, guid: 1463d6b0c1537fb44b86e49e55ac7548, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
